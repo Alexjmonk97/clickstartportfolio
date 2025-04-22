@@ -1,0 +1,17 @@
+<!DOCTYPE html!>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="mystyle.css">
+        <title>Various pictures that were taken by me</title>
+    </head>
+
+    <body>
+        <div class="myDiv">
+            <h1>Costa Rica</h1>
+            <a href="Main.html"></a>
+            <a href="Costa Rica"></a>
+            <p>Costa Rica is a place to various tropical wildlife.</p>
+        </div>
+    </body>
+    <footer>© Alex Monk 2025</footer>
+</html>
