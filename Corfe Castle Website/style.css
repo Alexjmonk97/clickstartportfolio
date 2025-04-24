@@ -1,0 +1,14 @@
+body {
+    height: 110px;
+    text-align: center;
+}
+
+h1 {
+    border: 10px;
+    background-color: black;
+    color: white;
+}
+
+img [src="images/DSC00919.JPG"] {
+    float: left;
+}
