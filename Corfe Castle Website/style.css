@@ -10,10 +10,10 @@ h1 {
     color: white;
 }
 
-img [src="images/DSC00919.JPG"] {
-    float:  left;
+.img_deg {
+    float:right;
 }
 
-img [src="images/DSC00928.JPG"] {
-    float:  left;
+footer {
+    text-align: right;
 }
