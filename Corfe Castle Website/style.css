@@ -33,7 +33,7 @@ div {
 }
 
 .dropdown {
-    float: left;
+    align-content: left;
     position: relative;
     display: inline-block;
 }
